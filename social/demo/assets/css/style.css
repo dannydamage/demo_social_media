@@ -1,0 +1,26 @@
+.navbar {
+  background: rgb(100, 27, 20) !important;
+}
+
+.navbar a {
+  color: rgb(227, 112, 54) !important;
+}
+
+nav .btn {
+  color: rgb(227, 112, 54) !important;
+  border-color: rgb(227, 112, 54) !important;
+}
+
+nav .btn:hover {
+  background: rgb(227, 112, 54)  !important;
+}
+
+nav .btn:hover {
+  color: rgb(100, 27, 20) !important;
+  border-color: rgb(227, 112, 54) !important;
+}
+
+.navbar a:hover {
+  border-color: rgb(255, 253, 54) !important;
+}
+
